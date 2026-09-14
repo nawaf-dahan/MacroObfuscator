@@ -17,10 +17,10 @@ git clone [https://github.com/YourUsername/MacroObfuscator.git](https://github.c
 cd MacroObfuscator
 
 # Basic Usage
-python macro_obfuscator.py -i sample.vba -o output.vba
+py macro_obfuscator.py -i sample.vba -o output.vba
 
 # Help & Options
-python macro_obfuscator.py --help
+py macro_obfuscator.py -i sample.vba --help
 
 # Custom Config & Debug Logging
-python macro_obfuscator.py -i sample.vba --config config.json --log-level DEBUG
+py macro_obfuscator.py -i sample.vba --config config.json --log-level DEBUG
