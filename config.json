@@ -1,0 +1,6 @@
+{
+  "rename_variables": true,
+  "encode_strings": true,
+  "strip_comments": true,
+  "variable_prefix": "sec_"
+}
